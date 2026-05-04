@@ -11,7 +11,7 @@
   "license": "ISC",
   "dependencies": {
     "internet-available": "^1.0.0",
-    "is-online": "^8.2.0",
+    "is-online": "^12.0.2",
     "request": "^2.88.0"
   }
 }
